@@ -1,0 +1,12 @@
+{
+  "author" : "Richard Assar <richardassar@googlemail.com>",
+  "name": "base64",
+  "version": "0.0.1",
+  "description": "A tiny CommonJS base64 polyfil",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/richardassar/base64.git"
+  },
+  "keywords": ["base64", "polyfil", "nodejs", "commonjs", "require", "browserify", "node"]
+}
